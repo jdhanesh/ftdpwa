@@ -1,0 +1,26 @@
+{
+  "gcm_sender_id": "847244712742",
+  "gcm_user_visible_only": true,
+  "short_name": "FTD PWA App",
+  "name": "FTD PWA App",
+  "icons": [
+    {
+      "src": "./src/images/icons/android-chrome-192x192.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./src/images/icons/android-chrome-192x192.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./src/images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}

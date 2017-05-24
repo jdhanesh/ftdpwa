@@ -1,0 +1,27 @@
+{
+  "promos": [{
+    "title": "Promo Area Content 1",
+    "slug": "mothers-day-link",
+    "description": "Promo Area content description One",
+    "content": "./src/images/514_car_img_1.jpg",
+    "catcontent": "./src/images/514_car_img_1.jpg"
+  }, {
+    "title": "Promo Area Content 2",
+    "slug": "same-day-link",
+    "description": "Promo Area content description Two",
+    "content": "./src/images/514_car_img_2.jpg",
+	"catcontent": "./src/images/514_car_img_3.jpg"
+  }, {
+    "title": "Promo Area Content 3",
+    "slug": "deal-of-the-day-link",
+    "description": "Promo Area content description Three",
+    "content": "./src/images/514_car_img_3.jpg",
+	"catcontent": "./src/images/514_car_img_3.jpg"
+  }, {
+    "title": "Promo Area Content 4",
+    "slug": "all-categories",
+    "description": "Promo Area content description Two",
+    "content": "./src/images/categories.png",
+	"catcontent": "./src/images/categories.png"
+  }]
+}
