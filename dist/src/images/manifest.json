@@ -1,0 +1,13 @@
+{
+  "name": "FTD Mobile",
+  "short_name": "FTD",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A simply PWA app.",
+  "icons": [{
+    "src": "../images/logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
