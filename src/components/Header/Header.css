@@ -1,0 +1,93 @@
+.header {
+  color:white;
+  background: #000;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.title {
+  padding: 1 rem 0;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  display: flex;
+  align-text: center;
+  height: 100%;
+}
+
+.list-item {
+  
+}
+
+.link {
+  color: #fff;
+  margin-left: 1rem;
+  font-size: 2rem;
+  display: inline-block;
+}
+
+.link:hover,
+.link:active {
+  color: white;
+}
+
+/* .logo {
+  background-image: url(../../images/logo_116x116.png);
+}
+*/
+
+.menu-btn {
+  font-size: 2rem;
+}
+
+.ftdlogo {
+   background: url(../../images/ftdsprite.png);
+   background-repeat: no-repeat;
+   background-size: 198px 130px!important;
+   background-position: 40px -30px;
+   width: 104px;
+   height: 58px;
+}
+
+.ftdsignin {
+  background: url(../../images/ftdsprite.png);
+  background-repeat: no-repeat;
+  background-size: 185px 135px;
+  width: 40px;
+  height: 50px;
+  background-position: -60px -30px;
+}
+
+.ftdcart {
+  background: url(../../images/ftdsprite.png);
+  background-repeat: no-repeat;
+  background-size: 185px 135px;
+  width: 34px;
+  height: 50px;
+  background-position: -63px 7px;
+}
+
+.navbar {
+  display: flex;
+  justifty-content: center;
+  text-align: center;
+  margin: 0.8rem 0.2rem 0.1rem 0.2rem;
+}
+
+.menucon {
+  padding-left: 0px !important;
+}

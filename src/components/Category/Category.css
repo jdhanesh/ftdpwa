@@ -1,0 +1,15 @@
+.promoimg {
+  width: 100%;
+}
+
+.headerdiv{
+  display: flex;
+  justify-content: space-between;
+  font-size: 22px;
+  border: 1px solid white;
+  padding: 1rem;
+  background: #1DA1F2;
+  margin: 0.4rem;
+  font-family: fantasy;
+  color: black;
+}

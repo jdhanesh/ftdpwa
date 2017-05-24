@@ -1,0 +1,132 @@
+.footer {
+  color:white;
+  background: black;
+}
+
+.container {
+}
+
+.title {
+  padding: 1 rem 0;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  display: flex;
+  align-text: center;
+  height: 100%;
+}
+
+.list-item {
+  
+}
+
+.link {
+  color: #fff;
+  margin-left: 2rem;
+  font-size: 2rem;
+}
+
+.link:hover,
+.link:active {
+  color: white;
+}
+
+.ftdShare {
+  background: url(../../images/social_sprite.png) no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 41px;
+  display: inline-block;
+}
+
+.ftdShareIcons {
+  padding: 20px 0 0 0;
+  width: 226px;
+  margin: 0 auto;
+}
+
+.ftdShareLink {
+  float: left;
+  width: 39px;
+  margin-right: 4px;
+}
+
+.additionalLinksItems.ftdShare.ftdShareFb {
+  background-position: 1px 1px;
+}
+
+.additionalLinksItems.ftdShare.ftdShareTwitter {
+  background-position: -92px 1px;
+}
+
+.additionalLinksItems.ftdShare.ftdShareYoutube {
+  background-position: -40px 1px;
+  width: 50px;
+}
+
+.additionalLinksItems.ftdShare.ftdSharePinterest {
+  background-position: -130px 1px;
+}
+
+.additionalLinksItems.ftdShare.ftdShareInstagram {
+  background-position: -169px 1px;
+}
+
+.ftdShareLink[href*="youtube"] {
+    width: 50px;
+}
+
+.copy_txt {
+  font-family: 'LatoRegular',Arial;
+  font-size: 12px;
+  color: #d1bc61;
+  text-align: left;
+  padding: 17px 0 0 10px;
+  clear: both;
+  text-decoration: none!important;
+  margin: 0 auto;
+  width: 300px;
+}
+
+.footerPhoneNum {
+  margin: 0 auto;
+  margin-top: 0.15rem;
+  font-size: 15px;
+  color: #d1bc61;
+  width: 90%;
+  height: auto;
+  display: flex;
+}
+
+.footerPhoneNumWrap {
+  margin: 0 auto;
+  width: auto;
+  height: 47px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.footerPhoneNumIcon {
+  width: 20px;
+  height: 21px;
+  float: left;
+  background-image: url(../../images/ftdsprite.png);
+  background-position: -45px -7px!important;
+  -webkit-filter: invert(75%) sepia(100%);
+  filter: invert(75%) sepia(100%);
+  background-size: 185px 127px;
+  margin: 15px 5px 11px 0!important;
+}
+
+.footerPhoneNumStr {
+  float: left;
+  height: auto;
+  padding: 16px 0;
+}
